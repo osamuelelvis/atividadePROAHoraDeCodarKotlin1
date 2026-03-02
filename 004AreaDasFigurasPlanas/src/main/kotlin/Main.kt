@@ -23,54 +23,54 @@ fun main() {
 }
 
 fun areaRetangulo() {
-    println("Digite a base do retângulo: ")
+    print("Digite a base do retângulo: ")
     val base = readln().toDouble()
-    println("Digite a altura do retângulo: ")
+    print("Digite a altura do retângulo: ")
     val altura = readln().toDouble()
     val area = base * altura
     println("A área do retângulo é: $area")
 }
 
 fun areaQuadrado() {
-    println("Digite o lado do quadrado: ")
+    print("Digite o lado do quadrado: ")
     val lado = readln().toDouble()
     val area = lado * lado
     println("A área do quadrado é: $area")
 }
 
 fun areaLosango(){
-    println("Digite a diagonal maior do losango: ")
+    print("Digite a diagonal maior do losango: ")
     val diagonalMaior = readln().toDouble()
-    println("Digite a diagonal menor do losango: ")
+    print("Digite a diagonal menor do losango: ")
     val diagonalMenor = readln().toDouble()
     val area = (diagonalMaior * diagonalMenor) / 2
     println("A área do losango é $area")
 }
 
 fun areaTrapezio() {
-    println("Digite a base maior do trapézio: ")
+    print("Digite a base maior do trapézio: ")
     val baseMaior = readln().toDouble()
-    println("Digite a base menor do trapézio: ")
+    print("Digite a base menor do trapézio: ")
     val baseMenor = readln().toDouble()
-    println("Digite a altura do trapézio: ")
+    print("Digite a altura do trapézio: ")
     val altura = readln().toDouble()
     val area = ((baseMaior + baseMenor) * altura) / 2
     println("A área do trapézio é: $area")
 }
 
 fun areaParalelogramo() {
-    println("Digite a base do paralelogramo: ")
+    print("Digite a base do paralelogramo: ")
     val base = readln().toDouble()
-    println("Digite a altura do paralelogramo: ")
+    print("Digite a altura do paralelogramo: ")
     val altura = readln().toDouble()
     val area = base * altura
     println("A área do paralelogramo é: $area")
 }
 
 fun areaTriangulo(){
-    println("Digite a base do triângulo: ")
+    print("Digite a base do triângulo: ")
     val base = readln().toDouble()
-    println("Digite a altura do triângulo: ")
+    print("Digite a altura do triângulo: ")
     val altura = readln().toDouble()
     val area = (base * altura) / 2
     println("A área do triângulo é: $area")
@@ -78,7 +78,7 @@ fun areaTriangulo(){
 
 fun areaCirculo(){
     val pi = 3.14
-    println("Digite o raio do círculo: ")
+    print("Digite o raio do círculo: ")
     val raio = readln().toDouble()
     val area = pi * raio * raio
     println("A área do círculo é: $area")
