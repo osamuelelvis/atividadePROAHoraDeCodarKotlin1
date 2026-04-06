@@ -1,24 +1,10 @@
 # 🧠 PROA - Hora de Codar 1 (Kotlin)
 
-Este repositório contém a adaptação dos exercícios iniciais de lógica de programação, originalmente desenvolvidos em Portugol, para a linguagem Kotlin.
+Adaptação dos exercícios de lógica do Portugol para Kotlin.
 
-## 💡 Sobre o projeto
+## 📚 Sobre o projeto
 
-O objetivo foi reescrever os algoritmos utilizando Kotlin, mantendo a lógica original, mas aplicando a sintaxe e estruturas da nova linguagem.
-
-## 📚 Conceitos trabalhados
-
-- Variáveis e tipos de dados em Kotlin
-- Estruturas condicionais (if/else)
-- Entrada e saída de dados
-- Adaptação de lógica entre linguagens
-
-## 🔄 Comparação com Portugol
-
-Este projeto representa a transição de:
-
-- Portugol (linguagem educacional)
-➡️ Kotlin (linguagem real de desenvolvimento)
+O objetivo foi reescrever algoritmos utilizando uma linguagem real de programação, mantendo a lógica original.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -26,6 +12,20 @@ Este projeto representa a transição de:
 
 ## 🚀 Como executar
 
-1. Clone o repositório:
+1. Clone este repositório:
+```bash
+git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodarKotlin1.git
+```
+2. Abra em uma IDE (ex: IntelliJ IDEA)
+3. Execute os arquivos `.kt`
+
+## 📈 Aprendizados
+
+- Diferenças entre Portugol e Kotlin
+- Adaptação de lógica entre linguagens
+
+## 📌 Status do projeto
+
+✅ Concluído
    ```bash
    git clone https://github.com/osamuelelvis/atividadePROAHoraDeCodarKotlin1.git
